@@ -1,0 +1,37 @@
+body {
+  font-family: 'Merriweather', serif;
+  background-color: #fdf6f0;
+  margin: 0;
+  padding: 0;
+  /* Agregamos un desplazamiento suave para la navegación */
+  scroll-behavior: smooth;
+}
+
+header {
+  background-color: #4255a9;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;
+}
+
+footer {
+  background-color: #426fa9;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.galeria img {
+  margin: 10px;
+  border: 2px solid #ccc;
+}
